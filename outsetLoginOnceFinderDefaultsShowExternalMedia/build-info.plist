@@ -9,7 +9,7 @@
 	<key>install_location</key>
 	<string>/</string>
 	<key>name</key>
-	<string>outsetLoginOnceFinderDefaultsShowExternalMedia.pkg</string>
+  <string>outsetLoginOnceFinderDefaultsShowExternalMedia-${version}.pkg</string>
 	<key>ownership</key>
 	<string>preserve</string>
 	<key>postinstall_action</key>
